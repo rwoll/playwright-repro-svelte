@@ -1,0 +1,6 @@
+/node_modules/
+/public/build/
+/public/tests/
+/playwright/.cache
+/playwright-report/
+.DS_Store
